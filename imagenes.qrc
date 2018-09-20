@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Imagenes/ficha1.png</file>
+        <file>Imagenes/ficha2.png</file>
+        <file>Imagenes/ficha3.png</file>
+        <file>Imagenes/ficha4.png</file>
+        <file>Imagenes/Dado1.png</file>
+        <file>Imagenes/Dado2.png</file>
+        <file>Imagenes/Dado3.png</file>
+        <file>Imagenes/Dado4.png</file>
+        <file>Imagenes/Dado5.png</file>
+        <file>Imagenes/Dado6.png</file>
+        <file>Imagenes/Noroll.png</file>
+        <file>Imagenes/punto1.png</file>
+        <file>Imagenes/punto2.png</file>
+        <file>Imagenes/menu.jpg</file>
+        <file>Imagenes/menuprincipal.jpg</file>
+        <file>Imagenes/ficha6.png</file>
+        <file>Imagenes/ficha7.png</file>
+        <file>Imagenes/tablero1.jpg</file>
+        <file>Imagenes/tablero2.jpg</file>
+        <file>Imagenes/blancasgana.png</file>
+        <file>Imagenes/gananegras.png</file>
+        <file>Imagenes/negrasganas.png</file>
+        <file>Imagenes/punto3.png</file>
+        <file>Imagenes/roll.png</file>
+        <file>Imagenes/tablero2.png</file>
+        <file>Imagenes/tablero1.png</file>
+        <file>Imagenes/instructivo.png</file>
+        <file>Imagenes/instructivo3.png</file>
+        <file>Imagenes/acerca de.png</file>
+        <file>Imagenes/icono.jpg</file>
+        <file>Imagenes/Logo UNICEN azul.jpg</file>
+    </qresource>
+</RCC>
